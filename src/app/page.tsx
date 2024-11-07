@@ -6,6 +6,7 @@ const Page = () => {
     <div>Hello, I'm 7ois</div>
     <div>Hello, I'm hirino</div>
     <div>Hello, what is your name?</div>
+    <div>Hello, what is your name?</div>
     </>
   )
 }
