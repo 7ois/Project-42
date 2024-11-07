@@ -5,6 +5,8 @@ const Page = () => {
     <>
       <div>Hello, I'm 7ois</div>
       <div>Hello, I'm hirino</div>
+
+      <button>Submit</button>
     </>
   )
 }
