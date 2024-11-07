@@ -5,7 +5,7 @@ const Page = () => {
     <>
       <div>Hello, I'm 7ois</div>
       <div>Hello, I'm hirino</div>
-      <h1>5555555</h1>
+      <h4>test: 5555555</h4>
 
       <button>Submit</button>
     </>
